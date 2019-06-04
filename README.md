@@ -5,5 +5,5 @@
 
 ![alt text](https://raw.githubusercontent.com/benjatron87/temp-lcd-display/master/images/image1.png)
 
-![alt text](https://raw.githubusercontent.com/benjatron87/temp-lcd-display/master/images/image1.png)
+![alt text](https://raw.githubusercontent.com/benjatron87/temp-lcd-display/master/images/image2.png)
 
